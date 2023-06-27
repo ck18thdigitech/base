@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * @author <mailto:info@18thdigitech.com>
+ * @copyright Copyright (c) 2023 18th DigiTech (https://www.18thdigitech.com)
+ * @package Eighteentech_Base
+ * @link https://www.18thdigitech.com/
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+    <menu>
+         <add id="Eighteentech_Base::base" title="Eighteentech" translate="title" module="Eighteentech_Base" sortOrder="50" resource="Eighteentech_Base::base"/>
+    </menu>
+</config>
