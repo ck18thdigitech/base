@@ -11,9 +11,7 @@
     <acl>
         <resources>
             <resource id="Magento_Backend::admin">
-                <resource id="Eighteentech_Base::base" title="Eightentech Base" sortOrder="51">
-                    <resource id="Eighteentech_Base::main" title="Base" sortOrder="10"/>
-                </resource>
+                <resource id="Eighteentech_Base::base" title="Eightentech Extensions" sortOrder="51" />
             </resource>
         </resources>
     </acl>
